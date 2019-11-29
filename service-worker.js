@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vk-webcam-zks/precache-manifest.d4aeca0d9797128de0bc18b369ce460f.js"
+  "/vk-webcam-zks/precache-manifest.41aa2832a1c011492481e53474c33387.js"
 );
 
 self.addEventListener('message', (event) => {
