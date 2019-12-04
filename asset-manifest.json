@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vk-webcam-zks/static/css/main.a8493749.chunk.css",
-    "main.js": "/vk-webcam-zks/static/js/main.c22e0a2a.chunk.js",
-    "main.js.map": "/vk-webcam-zks/static/js/main.c22e0a2a.chunk.js.map",
+    "main.js": "/vk-webcam-zks/static/js/main.9ac84d01.chunk.js",
+    "main.js.map": "/vk-webcam-zks/static/js/main.9ac84d01.chunk.js.map",
     "runtime-main.js": "/vk-webcam-zks/static/js/runtime-main.a25f0d69.js",
     "runtime-main.js.map": "/vk-webcam-zks/static/js/runtime-main.a25f0d69.js.map",
     "static/css/2.7214840c.chunk.css": "/vk-webcam-zks/static/css/2.7214840c.chunk.css",
     "static/js/2.cc43642e.chunk.js": "/vk-webcam-zks/static/js/2.cc43642e.chunk.js",
     "static/js/2.cc43642e.chunk.js.map": "/vk-webcam-zks/static/js/2.cc43642e.chunk.js.map",
     "index.html": "/vk-webcam-zks/index.html",
-    "precache-manifest.0e5dfd3b9eddccc73d8dcec4cbcdd949.js": "/vk-webcam-zks/precache-manifest.0e5dfd3b9eddccc73d8dcec4cbcdd949.js",
+    "precache-manifest.b028359fe4d5bdf870fdee2b1a946330.js": "/vk-webcam-zks/precache-manifest.b028359fe4d5bdf870fdee2b1a946330.js",
     "service-worker.js": "/vk-webcam-zks/service-worker.js",
     "static/css/2.7214840c.chunk.css.map": "/vk-webcam-zks/static/css/2.7214840c.chunk.css.map",
     "static/css/main.a8493749.chunk.css.map": "/vk-webcam-zks/static/css/main.a8493749.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.7214840c.chunk.css",
     "static/js/2.cc43642e.chunk.js",
     "static/css/main.a8493749.chunk.css",
-    "static/js/main.c22e0a2a.chunk.js"
+    "static/js/main.9ac84d01.chunk.js"
   ]
 }

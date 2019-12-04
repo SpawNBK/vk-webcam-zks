@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a976fc31310461a981e2cb5fdaa105e9",
+    "revision": "323d453eddda55287f6e962c797d1709",
     "url": "/vk-webcam-zks/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-webcam-zks/static/css/2.7214840c.chunk.css"
   },
   {
-    "revision": "287a1b6af955089d8bed",
+    "revision": "1f5655d28e1363988c7c",
     "url": "/vk-webcam-zks/static/css/main.a8493749.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-webcam-zks/static/js/2.cc43642e.chunk.js"
   },
   {
-    "revision": "287a1b6af955089d8bed",
-    "url": "/vk-webcam-zks/static/js/main.c22e0a2a.chunk.js"
+    "revision": "1f5655d28e1363988c7c",
+    "url": "/vk-webcam-zks/static/js/main.9ac84d01.chunk.js"
   },
   {
     "revision": "17b2b02165c4203faefd",
