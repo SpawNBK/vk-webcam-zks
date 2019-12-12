@@ -1,25 +1,15 @@
 {
-  "files": {
-    "main.css": "/vk-webcam-zks/static/css/main.a8493749.chunk.css",
-    "main.js": "/vk-webcam-zks/static/js/main.9ac84d01.chunk.js",
-    "main.js.map": "/vk-webcam-zks/static/js/main.9ac84d01.chunk.js.map",
-    "runtime-main.js": "/vk-webcam-zks/static/js/runtime-main.a25f0d69.js",
-    "runtime-main.js.map": "/vk-webcam-zks/static/js/runtime-main.a25f0d69.js.map",
-    "static/css/2.7214840c.chunk.css": "/vk-webcam-zks/static/css/2.7214840c.chunk.css",
-    "static/js/2.cc43642e.chunk.js": "/vk-webcam-zks/static/js/2.cc43642e.chunk.js",
-    "static/js/2.cc43642e.chunk.js.map": "/vk-webcam-zks/static/js/2.cc43642e.chunk.js.map",
-    "index.html": "/vk-webcam-zks/index.html",
-    "precache-manifest.b028359fe4d5bdf870fdee2b1a946330.js": "/vk-webcam-zks/precache-manifest.b028359fe4d5bdf870fdee2b1a946330.js",
-    "service-worker.js": "/vk-webcam-zks/service-worker.js",
-    "static/css/2.7214840c.chunk.css.map": "/vk-webcam-zks/static/css/2.7214840c.chunk.css.map",
-    "static/css/main.a8493749.chunk.css.map": "/vk-webcam-zks/static/css/main.a8493749.chunk.css.map",
-    "static/media/persik.png": "/vk-webcam-zks/static/media/persik.4e1ec840.png"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.a25f0d69.js",
-    "static/css/2.7214840c.chunk.css",
-    "static/js/2.cc43642e.chunk.js",
-    "static/css/main.a8493749.chunk.css",
-    "static/js/main.9ac84d01.chunk.js"
-  ]
+  "main.css": "/vk-webcam-zks/static/css/main.5b95da00.chunk.css",
+  "main.js": "/vk-webcam-zks/static/js/main.55b1f517.chunk.js",
+  "main.js.map": "/vk-webcam-zks/static/js/main.55b1f517.chunk.js.map",
+  "runtime~main.js": "/vk-webcam-zks/static/js/runtime~main.3779c500.js",
+  "runtime~main.js.map": "/vk-webcam-zks/static/js/runtime~main.3779c500.js.map",
+  "static/css/2.a1d6da79.chunk.css": "/vk-webcam-zks/static/css/2.a1d6da79.chunk.css",
+  "static/js/2.b43942ad.chunk.js": "/vk-webcam-zks/static/js/2.b43942ad.chunk.js",
+  "static/js/2.b43942ad.chunk.js.map": "/vk-webcam-zks/static/js/2.b43942ad.chunk.js.map",
+  "index.html": "/vk-webcam-zks/index.html",
+  "precache-manifest.c6425538c0833cabdb9f7cb817bcf8be.js": "/vk-webcam-zks/precache-manifest.c6425538c0833cabdb9f7cb817bcf8be.js",
+  "service-worker.js": "/vk-webcam-zks/service-worker.js",
+  "static/css/2.a1d6da79.chunk.css.map": "/vk-webcam-zks/static/css/2.a1d6da79.chunk.css.map",
+  "static/css/main.5b95da00.chunk.css.map": "/vk-webcam-zks/static/css/main.5b95da00.chunk.css.map"
 }
