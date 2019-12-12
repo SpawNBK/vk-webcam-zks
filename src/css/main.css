@@ -1,0 +1,101 @@
+.div-center {
+    display: table;
+    margin: 0 auto;
+}
+
+.div-center img {
+    width: 10rem;
+}
+
+.buttons-group {
+    display: flex;
+}
+
+.buttons-group button:first-child {
+    margin-right: 8px;
+}
+
+a, div, img, p, button {
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.cam-container {
+	display: flex;
+	width: 100%;
+	height: 100%;
+}
+
+.load-spin {
+	border: 16px solid #f3f3f3;
+	border-top: 16px solid #3498db;
+	border-radius: 50%;
+	width: 120px;
+	height: 120px;
+	animation: spin 2s linear infinite;
+	margin: 50px auto;
+}
+.loading {
+	height: 100vh;
+	width: 100%;
+	vertical-align: middle;
+}
+
+@keyframes spin {
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(360deg); }
+}
+
+.container {
+	display: none;
+}
+iframe {
+	position: relative;
+	height: 30vh;
+	width: 100%;
+	border: 0;
+}
+.row {
+	height: 40vh;
+}
+.cam-title {
+	text-align: center;
+	font-weight: bold;
+}
+
+#video {
+	position: relative;
+	height: 30vh;
+	width: 100%;
+	border: 0;
+}
+#cam1 {
+	position: relative;
+	height: 30vh;
+}
+#cam2 {
+	position: relative;
+	height: 30vh;
+}
+#cam3 {
+	position: relative;
+	height: 30vh;
+}
+#cam4 {
+	position: relative;
+	height: 30vh;
+}
+#cam5 {
+	position: relative;
+	height: 30vh;
+}
+
+@media (min-width: 160px) and (max-width: 767px) {
+
+.container {
+	width: 90%;
+}
+
+}
