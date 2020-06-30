@@ -24,9 +24,9 @@ var cams = { "cam1":
         },
     "cam3":
         {
-            "url":"https://cam.tks-net.ru/dahua.dh-sd59225u-hni-0001f522af/index.m3u8?token=2.hhDjiAi8ABoABZjald7mRpmTTDsZMW6unMhl8B3vtR_fH3kU",
-            "preview":"https://cam.tks-net.ru/dahua.dh-sd59225u-hni-0001f522af/preview.jpg?token=2.hhDjiAi8ABoABZjald7mRpmTTDsZMW6unMhl8B3vtR_fH3kU",
-            "title":"Набережная"
+            "url":"https://cam.tks-net.ru/omny_f12e_x20-04dfbc9d93/index.m3u8?token=2.hhDjiAi8ABoABZjald7mRh1ou0oQNwCwBOslqZeJ4acYqVWf",
+            "preview":"https://cam.tks-net.ru/omny_f12e_x20-04dfbc9d93/preview.jpg?token=2.hhDjiAi8ABoABZjald7mRh1ou0oQNwCwBOslqZeJ4acYqVWf",
+            "title":"Стадион Кристалл"
         },
     "cam4":
         {

@@ -48,24 +48,21 @@ class HomePanelBase extends React.Component {
                             </div>
                             <div className="row">
                                 <div className="col-md-6 col-xs-12 col-xxs-12">
-                                    <p className="cam-title">Набережная</p>
-                                    <div id="cam3"></div>
-                                </div>
-                                <div className="col-md-6 col-xs-12 col-xxs-12">
                                     <p className="cam-title">Площадь победы</p>
                                     <div id="cam4"></div>
                                 </div>
-                            </div>
-                            <div className="row">
                                 <div className="col-md-6 col-xs-12 col-xxs-12">
                                     <p className="cam-title">Сквер В-1</p>
                                     <div id="cam5"></div>
                                 </div>
+                            </div>
+                            <div className="row">
                                 <div className="col-md-6 col-xs-12 col-xxs-12">
-
-
+                                    <p className="cam-title">Стадион Кристалл</p>
+                                    <div id="cam3"></div>
                                 </div>
-
+                                <div className="col-md-6 col-xs-12 col-xxs-12">
+                                </div>
                             </div>
                         </div>
                     </div>
