@@ -40,6 +40,12 @@ var cams = { "cam1":
             "preview":"https://cam.tks-net.ru/nag.omny_m54e_2812-41e047cbf6/preview.jpg?token=2.hhDjiAi8ABoABZjald7mRq532Ihap4CYLwo_mB9Vgx71ij13",
             "title":"Сквер В-1"
         },
+    "cam6":
+        {
+            "url":"https://cam.tks-net.ru/dahua.dh-sd59225u-hni-0001f522af/index.m3u8?token=2.hhDjiAi8ABoABZjald7mRpmTTDsZMW6unMhl8B3vtR_fH3kU",
+            "preview":"https://cam.tks-net.ru/dahua.dh-sd59225u-hni-0001f522af/preview.jpg?token=2.hhDjiAi8ABoABZjald7mRpmTTDsZMW6unMhl8B3vtR_fH3kU",
+            "title":"Набережная"
+        },
 };
 
 for (key in cams) {
@@ -84,6 +90,13 @@ function PlayerjsAsync(CamName, ip, prevIP, title){
                 poster: prevIP
             });
             break;
+        case 'cam6':
+            cam6 = new Playerjs({id:CamName,
+                file:ip,
+                title: "",
+                poster: prevIP
+            });
+            break;
 
     }
 }
@@ -113,6 +126,10 @@ function PlayerjsEvents(event,id,info){
                     break;
                 case 'cam5':
                     cam5.api("play",
+                        cams[id]["url"]);
+                    break;
+                case 'cam6':
+                    cam6.api("play",
                         cams[id]["url"]);
                     break;
 

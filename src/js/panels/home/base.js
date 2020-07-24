@@ -62,6 +62,8 @@ class HomePanelBase extends React.Component {
                                     <div id="cam3"></div>
                                 </div>
                                 <div className="col-md-6 col-xs-12 col-xxs-12">
+                                    <p className="cam-title">Набережная</p>
+                                    <div id="cam6"></div>
                                 </div>
                             </div>
                         </div>
